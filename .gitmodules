@@ -1,0 +1,3 @@
+[submodule "experiments/kernel-experiments/linux"]
+	path = experiments/kernel-experiments/linux
+	url = https://github.com/kkiminki/linux
